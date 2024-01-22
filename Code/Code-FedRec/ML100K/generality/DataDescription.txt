@@ -1,0 +1,29 @@
+﻿====================================================================================
+【Basic Information】
+user number: 943
+item number: 1682
+rating: {1,2,3,4,5}
+
+----------------------------
+Copy 1: 
+	train: part 1, part 2, part 3
+	validation: part 4
+	test: part 5
+Copy 2: 
+	train: part 2, part 3, part 4
+	validation: part 5
+	test: part 1
+Copy 3: 
+	train: part 3, part 4, part 5
+	validation: part 1
+	test: part 2
+	
+Copy 4: 
+	train: part 4, part 5, part 1
+	validation: part 2
+	test: part 3
+	
+Copy 5: 
+	train: part 5, part 1, part 2
+	validation: part 3
+	test: part 4

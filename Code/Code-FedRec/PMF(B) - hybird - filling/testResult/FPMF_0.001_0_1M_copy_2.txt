@@ -1,0 +1,15 @@
+d: 20
+lambda: 0.001
+gamma: 0.8
+rho: 0.0
+fnTrainingData: ../ML1M/generality/copy2.train
+fnTestData: ../ML1M/generality/copy2.test
+fnOutputData: ./testResult/FPMF_0.001_0_1M_copy_2.txt
+MinRating: 1.0
+MaxRating: 5.0
+n: 6040
+m: 3952
+num_iterations: 100
+start_hybrid_averaging_iterations: 10
+local_train_iterations: 15
+Iter:0| MAE:2.5824826| RMSE:2.8137915

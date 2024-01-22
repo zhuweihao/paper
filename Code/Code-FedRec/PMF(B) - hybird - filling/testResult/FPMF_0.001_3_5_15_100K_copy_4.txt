@@ -1,0 +1,19 @@
+d: 20
+lambda: 0.001
+gamma: 0.8
+rho: 3.0
+fnTrainingData: ../ML100K/generality/copy4.train
+fnTestData: ../ML100K/generality/copy4.test
+fnOutputData: ./testResult/FPMF_0.001_3_5_15_100K_copy_4.txt
+MinRating: 1.0
+MaxRating: 5.0
+n: 943
+m: 1682
+num_iterations: 100
+start_hybrid_averaging_iterations: 5
+local_train_iterations: 15
+Iter:0| MAE:2.5244| RMSE:2.7652848
+Iter:1| MAE:2.5244| RMSE:2.7652848
+Iter:2| MAE:2.5244| RMSE:2.7652848
+Iter:3| MAE:2.5244| RMSE:2.7652848
+Iter:4| MAE:2.5244| RMSE:2.7652848

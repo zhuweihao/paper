@@ -1,0 +1,31 @@
+d: 20
+lambda: 0.001
+gamma: 0.8
+rho: 3.0
+fnTrainingData: ../ML100K/generality/copy3.train
+fnTestData: ../ML100K/generality/copy3.test
+fnOutputData: ./testResult/FPMF_0.001_3_5_15_100K_copy_3.txt
+MinRating: 1.0
+MaxRating: 5.0
+n: 943
+m: 1682
+num_iterations: 100
+start_hybrid_averaging_iterations: 5
+local_train_iterations: 15
+Iter:0| MAE:2.53265| RMSE:2.7731118
+Iter:1| MAE:2.53265| RMSE:2.7731118
+Iter:2| MAE:2.53265| RMSE:2.7731118
+Iter:3| MAE:2.53265| RMSE:2.7731118
+Iter:4| MAE:2.53265| RMSE:2.7731118
+Iter:5| MAE:2.53265| RMSE:2.7731118
+Iter:6| MAE:2.53265| RMSE:2.7731118
+Iter:7| MAE:2.53265| RMSE:2.7731118
+Iter:8| MAE:1.4391567| RMSE:1.6457341
+Iter:9| MAE:0.95709276| RMSE:1.2479019
+Iter:10| MAE:1.2820058| RMSE:1.4819438
+Iter:11| MAE:0.8142977| RMSE:1.0673836
+Iter:12| MAE:0.8474631| RMSE:1.0292794
+Iter:13| MAE:0.7476076| RMSE:0.96129006
+Iter:14| MAE:0.75618315| RMSE:0.94993573
+Iter:15| MAE:0.7482874| RMSE:0.94782126
+Iter:16| MAE:0.74899334| RMSE:0.9473437
